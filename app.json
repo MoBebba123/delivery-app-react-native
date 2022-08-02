@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tawwan-eats",
+    "slug": "tawwan-eats",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
